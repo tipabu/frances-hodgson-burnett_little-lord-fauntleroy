@@ -15,9 +15,14 @@
 
 .signature{
 	font-variant: small-caps;
-	text-align: right;
 }
 
 [epub|type~="z3998:letter"] header{
 	text-align: right;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-indent: 0;
+	text-align: left;
 }

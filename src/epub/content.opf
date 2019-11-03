@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/frances-hodgson-burnett/little-lord-fauntleroy</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-11-03T03:23:15Z</dc:date>
+		<meta property="dcterms:modified">2019-11-03T03:23:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -64,13 +64,13 @@
 		<dc:description id="description">A poor young boy unexpectedly inherits a peerage and travels to England to live with his grandfather, an Earl.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;Little Lord Fauntleroy&lt;/i&gt;, an American boy named Cedric is transported from the impoverished streets of New York City to the grandeur of his ancestral home, Dorincourt Castle. Here he learns how to become an English aristocrat from the Earl of Dorincourt, his cold and cynical grandfather.&lt;/p&gt;
-			&lt;p&gt;Frances Hodgson Burnett published her first children’s story, &lt;i&gt;Little Lord Fauntleroy&lt;/i&gt;, in the &lt;i&gt;St. Nicholas Magazine&lt;/i&gt; in 1865. Because of the story’s popularity, a year later, it was published as an illustrated novel to be sold around the world and translated to 20 different languages. Burnett is also known for her children novels &lt;i&gt;A Little Princess&lt;/i&gt; and &lt;i&gt;The Secret Garden&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Frances Hodgson Burnett published this, her first children’s story, in &lt;i&gt;St. Nicholas Magazine&lt;/i&gt; in 1865. Because of the story’s popularity, a year later, it was published as an illustrated novel to be sold around the world and translated to 20 different languages.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/479</dc:source>
 		<dc:source>https://books.google.com/books?id=kut_maWlSREC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">59529</meta>
+		<meta property="se:reading-ease.flesch">79.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Little_Lord_Fauntleroy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frances-hodgson-burnett_little-lord-fauntleroy</meta>
 		<dc:creator id="author">Frances Hodgson Burnett</dc:creator>
@@ -98,6 +98,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>

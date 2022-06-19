@@ -58,7 +58,7 @@
 		<meta property="term" refines="#subject-9">Unknown</meta>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2010102408</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A poor young boy unexpectedly inherits a peerage and travels to England to live with his grandfather, an Earl.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
